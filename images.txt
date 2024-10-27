@@ -7,3 +7,4 @@ xhofe/alist:latest
 xiaoyaliu/alist
 lobehub/lobe-chat
 emlog/emlog:pro-latest-php7.4-apache
+cloudflare/cloudflared:latest
